@@ -1,62 +1,77 @@
-# 👋 Hi there, I'm Krish Arora
-
-I'm a passionate Full Stack Developer 🇮🇳 building everything from microservice-based e-commerce platforms to cloud-integrated backend systems and CLI tools. I love solving real-world problems using TypeScript, Rust, Docker, and Python.
-
----
-
-## 🚀 Tech I Work With
-
-**Languages**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frameworks & Tools**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Medusa](https://img.shields.io/badge/-MedusaJS-1a1a1a?style=flat&logo=medusa&logoColor=white)
-
-**DevOps & CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+# KRISH ARORA
+📍 Panipat, Haryana (132103) | 📞 7988106343 | ✉️ krisharora3406@gmail.com  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://your-portfolio-link.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/krish12345y89)
 
 ---
 
-## 🧰 Notable Projects
+## 🚀 Backend Developer | TypeScript Specialist | Microservices Architect
 
-| Name                      | Description                                        | Stack              |
-|---------------------------|----------------------------------------------------|---------------------|
-| [`complete`](https://github.com/krish12345y89/complete) | 🛒 Full-stack microservices-based e-commerce system | TypeScript, Docker |
-| [`medusa-frontend`](https://github.com/krish12345y89/medusa-frontend) | Custom frontend for MedusaJS e-commerce backend    | TypeScript, Medusa |
-| [`python-tools`](https://github.com/krish12345y89/python-tools) | 🛡️ Pentesting & network tools collection            | Python              |
-| [`payload`](https://github.com/krish12345y89/payload) | Advanced CMS backend experiments                   | TypeScript          |
-| [`messageBrokers`](https://github.com/krish12345y89/messageBrokers) | Exploring brokers like Kafka/RabbitMQ              | TypeScript          |
+Experienced backend developer with expertise in **distributed systems**, **real-time applications**, and **cloud-native architectures**. Passionate about building scalable systems with TypeScript, Node.js, and modern DevOps practices.
 
 ---
 
-## 📈 GitHub Stats
+### 🔧 Technical Skills
+**Languages:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E)
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish12345y89&show_icons=true&theme=radical)
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933) ![Microservices](https://img.shields.io/badge/Microservices-GRPC-FF6B6B) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-PUB/SUB-FF6600)
 
----
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1) ![Redis](https://img.shields.io/badge/Redis-DC382D)
 
-## 🌱 Currently Learning
-- Advanced Rust (LMDB, async automation)
-- Distributed systems design
-- Secure backend development
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-EC2/S3/RDS-232F3E) ![Docker](https://img.shields.io/badge/Docker-2496ED) ![GitHub Actions](https://img.shields.io/badge/GHA-CI/CD-2088FF)
 
----
-
-## 📫 Let's Connect
-
-- 🔗 [GitHub](https://github.com/krish12345y89)
-- 🐦 [Twitter](https://twitter.com/) *(Add your handle if available)*
-- 🧳 [LinkedIn](https://linkedin.com/in/) *(Add if available)*
+**Security:**  
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-Expert-000000) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Pro-FF6633)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+### 💼 Professional Experience
 
+#### **Bizzowl** | Backend Developer (Remote)  
+_April 2025 - Present_  
+✅ Led auth system redesign (JWT/OAuth2) for 3 application panels  
+✅ Integrated Razorpay/PayU with 99.99% transaction success rate  
+✅ Mentored 3 interns in backend best practices  
+
+#### **Almanilokheri** | Backend Engineer (Remote)  
+_Jan 2024 - March 2025_  
+🚀 Scaled chat system to 10K+ concurrent users with Socket.io + Redis  
+📈 Improved API response times by 2x through RabbitMQ task isolation  
+
+---
+
+### 🏆 Key Projects
+
+#### [Vercel Clone](https://github.com/krish12345y89/vercel-clone) | TypeScript + Docker + AWS  
+⭐ GitHub-to-S3 deployment pipeline with Docker containers  
+⭐ Built S3 reverse proxy for static assets (300ms avg latency)  
+
+#### [Real-Time Chat App](https://github.com/krish12345y89/chat-app) | Node.js + Socket.io  
+💬 Handled 5K+ concurrent connections with Redis pub/sub  
+📸 Cloudinary integration for media uploads (50ms processing)  
+
+#### [E-Commerce Microservices](https://github.com/krish12345y89/ecom-ms) | CQRS + RabbitMQ  
+🛒 GRPC inter-service communication with 99.95% uptime  
+🔒 Implemented PCI-DSS compliant payment workflows  
+
+---
+
+### 📚 Education
+**Guru Brahmadanda Ji Govt. Polytechnic**  
+_Diploma in Computer Engineering (9.17 CGPA)_ | 2022 - Present  
+
+**Cambridge Fields Global School**  
+_Class X (88.8%)_ | 2021 - 2022  
+
+---
+
+### 🏅 Certifications
+- **AWS Certified Developer - Associate** (2025)  
+- **RabbitMQ Message Patterns** (Udemy, 2024)  
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish12345y89&show_icons=true&theme=radical)](https://github.com/krish12345y89)
