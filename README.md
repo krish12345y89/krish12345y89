@@ -1,6 +1,6 @@
 # KRISH ARORA
 📍 Panipat, Haryana (132103) | 📞 7988106343 | ✉️ krisharora3406@gmail.com  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://your-portfolio-link.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/krish12345y89)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/krish-arora-438b58292/) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/krish12345y89)
 
 ---
 
