@@ -68,10 +68,4 @@ _Class X (88.8%)_ | 2021 - 2022
 
 ---
 
-### 🏅 Certifications
-- **AWS Certified Developer - Associate** (2025)  
-- **RabbitMQ Message Patterns** (Udemy, 2024)  
-
----
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish12345y89&show_icons=true&theme=radical)](https://github.com/krish12345y89)
